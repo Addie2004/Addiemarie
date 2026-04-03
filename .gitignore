@@ -1,0 +1,58 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.vim
+.emacs*
+
+# Node.js (if you use Node)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Python (if you use Python)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+
+# Java (if you use Java)
+*.class
+*.jar
+target/
+
+# Build outputs (general)
+dist/
+build/
+out/
+
+# Local environment files
+.env.local
+.env.*.local
+
+# OS temp files
+*.tmp
+*.temp
+.cache/
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+venv/
+.gems/
