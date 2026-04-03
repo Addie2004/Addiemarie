@@ -1,0 +1,10 @@
+Hello! This is my first file in the src folder.
+
+I'm learning GitHub and practicing the git workflow:
+1. Make changes to files
+2. Stage changes with 'git add'
+3. Commit with a message
+4. Push to GitHub
+
+This file is for practice!
+git add

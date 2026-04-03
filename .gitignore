@@ -56,3 +56,7 @@ logs/
 node_modules/
 venv/
 .gems/
+git status
+git add .
+git commit -m "Add: hello.txt practice file in src folder"
+git push origin main
